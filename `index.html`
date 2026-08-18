@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Gabung TeamTalk Server</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body style="text-align:center; padding:50px; font-family:sans-serif; background:#f0f0f0">
+  <h2>Channel: Root</h2>
+  <p>Klik tombol di bawah untuk langsung masuk TeamTalk</p>
+  <br>
+  <a href="tt://tt5.angelsclan.net?tcpport=47956&udpport=47956&encrypted=0&username=tamu&password=tamu&channel=%2F" 
+     style="padding:18px 35px; background:#0066ff; color:white; text-decoration:none; border-radius:10px; font-size:18px; font-weight:bold">
+     GABUNG SEKARANG
+  </a>
+  <br><br>
+  <p style="font-size:14px; color:#555">
+    Server: tt5.angelsclan.net <br>
+    User: tamu | Password: tamu
+  </p>
+</body>
+</html>
